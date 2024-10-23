@@ -2,3 +2,4 @@ book
 Dockerfile
 docker-compose.yml
 mdbook
+src/assets
