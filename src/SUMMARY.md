@@ -4,6 +4,10 @@
 
 ---
 
+- [Introducción a DAX](daxIntro/dax_intro.md)
+
+---
+
 - [Carga de Datos desde la Base de Datos](dataLoading/dbDataLoadingMethods.md)
     - [Carga de la Base de Datos Completa](dataLoading/fullDBLoad.md)
     - [Carga a través de Consulta SQL](dataLoading/sqlQueryLoad.md)
