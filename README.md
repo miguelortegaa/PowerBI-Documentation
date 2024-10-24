@@ -4,7 +4,7 @@ Este proyecto utiliza Docker para su configuración y despliegue. Para configura
 
 ## Instrucciones de Configuración
 
-1. Dirígete a la sección de [Releases](https://github.com/usuario/proyecto/releases) de este repositorio.
+1. Dirígete a la sección de [Releases](https://github.com/miguelortegaa/PowerBI-Documentation/releases) de este repositorio.
 2. Busca la última release titulada **Docker setup**.
 3. Sigue las instrucciones detalladas en esa release para configurar Docker correctamente.
 
