@@ -1,4 +1,4 @@
-# Informe 1: Actos documentados y Recibos
+# 📊Informe 1: Actos documentados y Recibos
 
 ## Objetivo del informe
 

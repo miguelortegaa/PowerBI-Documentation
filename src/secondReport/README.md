@@ -1,4 +1,4 @@
-# Informe 2: Ayudas
+# 📊Informe 2: Ayudas
 
 ## Introducción
 

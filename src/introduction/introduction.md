@@ -1,4 +1,4 @@
-# Introducción
+# 📖Introducción
 
 Este proyecto se ha desarrollado con el objetivo de crear un sistema de análisis interactivo utilizando Power BI para visualizar y gestionar datos provenientes de una base de datos PostgreSQL. Los informes creados proporcionan a los usuarios una visión clara y detallada de los *actos documentados* y los *recibos*, así como de las *ayudas* otorgadas, permitiendo una mejor toma de decisiones a partir de la información presentada.
 

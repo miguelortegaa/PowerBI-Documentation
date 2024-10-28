@@ -1,4 +1,4 @@
-# Definición y creación de los filtros
+# 🔍Definición y creación de los filtros
 
 Para mejorar la interactividad y la personalización del informe, se han implementado tres filtros fundamentales en Power BI: **Año**, **Mes** y **Último Acto**. A continuación, se detalla cómo crear y configurar cada uno de estos filtros utilizando los campos correspondientes de los datos.
 

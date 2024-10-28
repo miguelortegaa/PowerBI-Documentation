@@ -1,4 +1,4 @@
-# Creación de la tabla Recibos y selección de los datos a mostrar
+# 🧾Creación de la tabla Recibos y selección de los datos a mostrar
 
 ## Objetivo de la tabla
 

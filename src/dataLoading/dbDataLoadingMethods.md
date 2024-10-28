@@ -1,4 +1,4 @@
-# Carga de Datos desde la Base de Datos
+# 🗄️Carga de Datos desde la Base de Datos
 
 En Power BI, la carga de datos desde una base de datos PostgreSQL puede realizarse de diversas maneras, dependiendo de los requisitos del proyecto y el volumen de datos que se necesita manipular. En este documento, vamos a explorar dos métodos comunes para cargar datos desde PostgreSQL en Power BI:
 
